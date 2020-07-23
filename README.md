@@ -6,7 +6,8 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=maribelbhf&theme=tokyonight&show_icons=true"/>
 
-<iframe src="https://giphy.com/embed/13HBDT4QSTpveU" width="280" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ign-describe-plans-13HBDT4QSTpveU">via GIPHY</a></p>
+
+<img align='right' src='https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif' width='200"'>
 
 
 
