@@ -1,6 +1,5 @@
 <h1 align="center">Hi there, I'm Maribel :alien:</h1>
 
-![me](https://github.com/maribelbhf/maribelbhf/blob/master/assets/resume.gif)
 
 ---
 
